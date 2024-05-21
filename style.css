@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Playball&family=Roboto&display=swap');
+html, body{
+    width: 99%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
+}
+header{
+    position: sticky;
+    top: 0;
+    background-color: white;
+    height: 83px;
+    box-shadow: rgba(7, 7, 7, 0.089) 0px 1px 10px;
+    z-index: 1;
+}
+.left img{
+    width: 77px;
+    height: 41px;
+}
+.container{
+    padding: 0 3vw;
+    /* margin: 12px 0; */
+}
+nav{
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 21px;
+}
+nav ul li{
+    list-style: none;
+    padding: 0 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+nav ul li:hover{
+    scale: 1.2;
+}
+.section1{
+    background-color: rgba(209, 208, 255, 0.301);
+    height: 7vh;
+    font-size: 17px;
+    color: #8c8b8b;
+    z-index: -1;
+}
+.search{
+    width: 25vw;
+    padding: 12px 27px;
+    margin: 0 4vw;
+    border-radius: 5px;
+    border: white;
+    background-color: #f0eeeeb3;
+}
+.search:hover{
+    width: 25vw;
+    padding: 10px 25px;
+    margin: 0 4vw;
+    border-radius: 5px;
+    border: 2px solid #f0eeeeb3;
+    background-color: white;
+}
+.img1{
+    height: 6vh;
+}
+.img2{
+    width: 100%;
+    height: auto;
+}
+.img2:hover{
+    scale: 1.02;
+}
+.img3{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.img3:hover{
+    scale: 1.01;
+}
+
+@media (max-width: 1250px){
+    header{
+        height: 150px;
+    }
+    nav{
+        font-size: 10px;
+        flex-direction: column;
+        align-items: center;
+    }
+    nav ul li{
+        padding: 0px 5px;
+    }
+    .container{
+        padding: 0 0.5vw;
+
+    }
+    .right{
+        flex-direction: column;
+    }
+    .right-box{
+        margin: 10px;
+    }
+    input{
+        place-content: "Search";
+    }
+    .img1{
+        height: 5vh;
+    }
+    .left img{
+        width: 57px;
+        height: 31px;
+    }
+}

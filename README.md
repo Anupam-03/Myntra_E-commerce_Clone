@@ -16,7 +16,9 @@ This project involves creating a replica of the user interface of the Myntra shi
 ## Installation
 1. Clone the repository: `git clone https://github.com/your_username/Myntra_E-commerce_Clone.git`
 2. Open the project directory in your code editor.
-3. Open the `index.html` file in your web browser to view the replica.
+3. Create a folder and name it "imgs."
+4. Add all images to the "imgs" folder.
+5. Open the `index.html` file in your web browser to view the replica.
 
 ## Usage
 Once the project is set up, open the `index.html` file in your web browser to interact with the replica of the Myntra shipping site.

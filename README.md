@@ -20,3 +20,6 @@ This project involves creating a replica of the user interface of the Myntra shi
 
 ## Usage
 Once the project is set up, open the `index.html` file in your web browser to interact with the replica of the Myntra shipping site.
+
+## My Project Home Page
+![Screenshot 2024-05-25 202854](https://github.com/Anupam-Consultency-Services/Myntra_E-commerce_Clone/assets/116145439/4577e2e6-8dbd-4481-839f-99224d0a48ef)

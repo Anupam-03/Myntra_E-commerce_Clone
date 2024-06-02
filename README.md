@@ -1,4 +1,4 @@
-![Screenshot 2024-06-02 210459](https://github.com/Anupam-03/Myntra_E-commerce_Clone/assets/116145439/629b1ed5-efcb-4ca0-9f30-e0e9b7843d47)# Myntra_E-commerce_Clone
+# Myntra_E-commerce_Clone
 
 ## Overview
 This project involves creating a replica of the user interface of the Myntra shipping site. The aim is to accurately reproduce the visual elements, layout, and interactive features of the original site, focusing on the front-end design aspect.
